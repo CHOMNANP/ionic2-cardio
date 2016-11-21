@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 import { NavController , Platform} from 'ionic-angular';
-import { Camera, CardIO } from 'ionic-native';
+import { CardIO } from 'ionic-native';
 
 
 @Component({
